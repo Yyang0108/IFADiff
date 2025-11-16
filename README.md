@@ -1,5 +1,7 @@
 # IFADiff Usage Guide
 
+This repository contains the official implementation of
+**IFADiff: Training-Free Hyperspectral Image Generation via Integer–Fractional Alternating Diffusion Sampling**.
 This project is based on the **[HSIGene](https://github.com/LiPang/HSIGene)** framework and provides the IFADiff inference workflow.  
 This document introduces the complete procedure, including environment setup, file replacement, and running unconditional and conditional inference scripts.
 
