@@ -16,12 +16,6 @@ models/                     # IFADiff inference scripts (source files)
 
 ## 🚀 1. Environment Setup
 
-Install dependencies according to HSIGene:
-
-```bash
-pip install -r HSIGene/requirements.txt
-```
-
 Install additional dependencies for IFADiff:
 
 ```bash
