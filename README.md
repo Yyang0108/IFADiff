@@ -6,15 +6,6 @@ This project is based on the **[HSIGene](https://github.com/LiPang/HSIGene)** fr
 
 This document introduces the complete procedure, including environment setup, file replacement, and running unconditional and conditional inference scripts.
 
-## Project Structure
-
-```
-models/                     # IFADiff inference scripts (source files)
-│── inference_cond_ifadiff.py
-│── inference_uncond_ifadiff.py
-│── requirements.txt
-```
-
 ## 1. Environment Setup
 
 Install additional dependencies for IFADiff:
