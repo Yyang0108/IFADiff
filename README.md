@@ -1,4 +1,4 @@
-# IFADiff Usage Guide
+# Usage Guide
 
 This repository contains the official implementation of **IFADiff: Training-Free Hyperspectral Image Generation via Integer–Fractional Alternating Diffusion Sampling**.
 
